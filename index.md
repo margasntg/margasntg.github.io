@@ -31,8 +31,8 @@ Fandom: ONCE
 <img width="482" alt="nuhu" src="https://user-images.githubusercontent.com/101153712/157676754-a66a9a19-f89c-4ec5-b410-1ccc1bd6113e.png">
 
 
-                                                       Twice Members Profile:
-                                                               Nayeon                      
+    Twice Members Profile:
+    Nayeon                      
 
 
 ![274702083_1172147940190123_8587298847961737725_n](https://user-images.githubusercontent.com/101153712/157660687-23caf514-bf14-488b-87b3-979438ca8f8d.jpg)
@@ -61,7 +61,7 @@ MBTI Type: ISTP-A
 
 
 
-                                                         Nayeon Facts
+    Nayeon Facts
 
 – Nayeon has a younger sister named Im Seo-Yeon.
 
@@ -99,7 +99,7 @@ MBTI Type: ISTP-A
 
 
 
-                                                           Jeongyeon  
+    Jeongyeon  
 
 
 ![275236936_1812580242274673_9023067632541357992_n](https://user-images.githubusercontent.com/101153712/157662873-1e8abfb7-0c7c-4ffa-ae0a-cd3e4d7f89a3.jpg)
@@ -126,7 +126,7 @@ Blood Type: O
 MBTI Type: ISFJ
 
 
-                                                         Jeongyeon Facts:
+    Jeongyeon Facts:
 
 – She was born in Suwon, South Korea.
 
@@ -169,7 +169,7 @@ MBTI Type: ISFJ
 – Jeongyeon’s ideal type: “Someone who makes me feel comfortable; Someone funny who can amuse me.”
 
 
-                                                               Momo
+    Momo
 
 
 ![274990920_1040768416786513_8312856666394118544_n](https://user-images.githubusercontent.com/101153712/157664706-be13c8d9-a022-4fc4-afab-acbf1691e4e8.jpg)
@@ -196,7 +196,7 @@ Blood Type: A
 MBTI Type: INFP-T
 
 
-                                                            Momo Facts:
+    Momo Facts:
 
 – She was born in Kyōtanabe, Kyoto, Japan.
 
@@ -240,7 +240,7 @@ MBTI Type: INFP-T
 
 
 
-                                                               Sana
+    Sana
 
 ![275328961_341256678017137_9043181974767731696_n](https://user-images.githubusercontent.com/101153712/157666203-a245e111-68d2-4dc0-b6c4-e05e5371f981.jpg)
 
@@ -266,7 +266,7 @@ Blood Type: B
 MBTI Type: ENFP
 
 
-                                                              Sana Facts
+    Sana Facts
 
 – She was born in Tennōji-ku, Osaka, Japan.
 
@@ -306,7 +306,7 @@ MBTI Type: ENFP
 
 
 
-                                                                Mina
+    Mina
 
 
 ![275261993_352290610117039_8741655847384485274_n](https://user-images.githubusercontent.com/101153712/157667170-5faec261-42c9-402b-b4f8-abc14b10bfdf.jpg)
@@ -333,7 +333,7 @@ Blood Type: A
 MBTI Type: ISFP-T
 
 
-                                                               Mina Facts
+    Mina Facts
 
 – She was born in San Antonio, Texas, United States; her parents are both Japanese.
 
@@ -377,7 +377,7 @@ program in South Korea on January 2, 2014.
 
 
 
-                                                                Dahyun
+    Dahyun
 
 
 ![275275280_813616232836283_8797072557923247975_n](https://user-images.githubusercontent.com/101153712/157668031-3ecf094c-45df-450c-8d9c-0e5e5f1ec7dc.jpg)
@@ -404,7 +404,7 @@ Blood Type: O
 MBTI Type: ISFJ-T
 
 
-                                                             Dahyun Facts
+    Dahyun Facts
 
 – She was born in Seongnam, Gyeonggi-do, South Korea.
 
@@ -442,7 +442,7 @@ MBTI Type: ISFJ-T
 
 
 
-                                                              Chaeyoung
+    Chaeyoung
 
 
 ![275360551_757441105160621_571419212332316377_n](https://user-images.githubusercontent.com/101153712/157672148-6d50eccc-d83d-483e-89c0-69b858e9a10d.jpg)
@@ -469,7 +469,7 @@ Blood Type: B
 MBTI Type: INFP-T
 
 
-                                                            Chaeyoung Facts
+    Chaeyoung Facts
 
 – She was born in Seoul, South Korea.
 
@@ -505,7 +505,7 @@ MBTI Type: INFP-T
 
 
 
-                                                                 Tzuyu
+    Tzuyu
 
 ![275278331_301713082060610_2150867922406103672_n](https://user-images.githubusercontent.com/101153712/157673331-3e30f3de-67be-47d0-8a33-bb0d0d722f42.jpg)
 
@@ -534,8 +534,7 @@ Blood Type: A
 
 MBTI Type: ISFP-A
 
-
-                                                               Tzuyu Facts
+    Tzuyu Facts
 
 – She was born in Tainan, Taiwan.
 
@@ -576,33 +575,4 @@ MBTI Type: ISFP-A
 – Tzuyu is ranked 4th in TC Candler “The most beautiful faces of 2020”
 
 – Tzuyu’s ideal type: “Someone who understands the importance of filial piety; Someone who loves me more; Someone who likes puppies; Someone who eats well; Someone who can approach me first”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
- 
-- Bulleted
-- List
-
-1. Numbered
-2. Li
 
