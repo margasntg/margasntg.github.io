@@ -20,7 +20,7 @@ Current State:  Active
 
 Debut: October 20, 2015
 
-Debut to 1st win:
+Debut to 1st win: 198 days
 
 Active years: 2015 - present 
 
