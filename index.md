@@ -32,6 +32,7 @@ Fandom: ONCE
 
 
     Twice Members Profile:
+    
     Nayeon                      
 
 
